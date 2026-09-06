@@ -1,15 +1,8 @@
 <p align="center">
   <img src="./assets/jch_Banner_Github.png" alt="Jorjany Chaves Banner" width="100%" />
   
-</p><p align="center">
-  <a href="https://www.linkedin.com/in/jorjanychaves">
-    <img src="./assets/linkedin.svg" alt="LinkedIn" width="30" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:chjorjanys@gmail.com">
-    <img src="./assets/email.svg" alt="Email" width="30" />
-  </a>
-</p>
+[![LinkedIn](./assets/linkedin.svg)](https://www.linkedin.com/in/tu-usuario/)
+[![Email](./assets/email.svg)](mailto:correo@ejemplo.com)
 
 
 ## About Me
