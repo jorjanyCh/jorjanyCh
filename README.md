@@ -5,9 +5,7 @@
   <a href="https://www.linkedin.com/in/jorjanychaves">
     <img src="./assets/linkedin.svg" alt="LinkedIn" width="30" />
   </a>
-
   &nbsp;&nbsp;
-
   <a href="mailto:chjorjanys@gmail.com">
     <img src="./assets/email.svg" alt="Email" width="30" />
   </a>
