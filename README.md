@@ -4,8 +4,11 @@
 
 ## About Me
 
-I'm Jorjany Chaves Selles, a software developer focused on backend development.
-I work with web projects, databases and technologies that help me build and improve software solutions.
+I'm Jorjany Chaves Selles, a software developer focused on backend development. My background in Business Informatics has allowed me to approach software development by combining programming, data and business needs.
+
+I currently develop personal projects where I continue strengthening my skills in web development, databases and backend technologies.
+
+A cup of black coffee is usually somewhere between the idea and the code.
 
 <!--
 **jorjanyCh/jorjanyCh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
