@@ -28,7 +28,6 @@ A cup of coffee is usually somewhere between the idea and the code.
   <img src="./assets/java.svg" alt="Java" title="Java" width="42" />
   &nbsp;&nbsp;
   <img src="./assets/spring-boot.svg" alt="Spring Boot" title="Spring Boot" width="42" />
-  &nbsp;&nbsp;
   <img src="./assets/laravel.svg" alt="Laravel" title="Laravel" width="42" />
 </p>
 
