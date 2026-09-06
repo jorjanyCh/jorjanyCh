@@ -25,27 +25,28 @@ A cup of coffee is usually somewhere between the idea and the code.
 ### Backend
 
 <p>
-  <img src="./assets/java.svg" alt="Java" title="Java" width="42" />
+  <img src="./assets/java.svg" alt="Java" title="Java" height="48" />
   &nbsp;&nbsp;
-  <img src="./assets/spring-boot.svg" alt="Spring Boot" title="Spring Boot" width="42" />
-  <img src="./assets/laravel.svg" alt="Laravel" title="Laravel" width="42" />
-  <img src="./assets/php.svg" alt="php" title="php" width="42" />
+  <img src="./assets/spring-boot.svg" alt="Spring Boot" title="Spring Boot" height="48" />
+  &nbsp;&nbsp;
+  <img src="./assets/laravel.svg" alt="Laravel" title="Laravel" height="48" />
+  &nbsp;&nbsp;
+  <img src="./assets/php.svg" alt="PHP" title="PHP" height="34" />
 </p>
 
 ### Database
 
 <p>
-  <img src="./assets/mysql.svg" alt="MySQL" title="MySQL" width="42" />
+  <img src="./assets/mysql.svg" alt="MySQL" title="MySQL" height="34" />
 </p>
 
 ### Frontend
 
 <p>
-  <img src="./assets/bootstrap.svg" alt="Bootstrap" title="Bootstrap" width="42" />
+  <img src="./assets/bootstrap.svg" alt="Bootstrap" title="Bootstrap" height="48" />
   &nbsp;&nbsp;
-  <img src="./assets/astro.svg" alt="Astro" title="Astro" width="42" />
+  <img src="./assets/astro.svg" alt="Astro" title="Astro" height="48" />
 </p>
-
 <!--
 **jorjanyCh/jorjanyCh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
