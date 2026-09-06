@@ -2,11 +2,11 @@
   <img src="./assets/jch_Banner_Github.png" alt="Jorjany Chaves Banner" width="100%" />
   
 <p align="center">
-  <a href="TU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/jorjanychaves">
     <img src="./assets/linkedin.svg" alt="LinkedIn" width="28">
   </a>
 
-  <a href="mailto:TU_CORREO">
+  <a href="chjorjanys@gmail.com">
     <img src="./assets/email.svg" alt="Email" width="28">
   </a>
 </p>
