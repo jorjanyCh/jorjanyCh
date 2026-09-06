@@ -6,9 +6,9 @@
     <img src="./assets/linkedin.svg" alt="LinkedIn" width="28">
   </a>
 
-  <a href="chjorjanys@gmail.com">
-    <img src="./assets/email.svg" alt="Email" width="28">
-  </a>
+ <a href="mailto:chjorjanys@gmail.com">
+  <img src="./assets/email.svg" alt="Email" width="28">
+</a>
 </p>
 
 
