@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="./assets/banner-github.png" alt="Jorjany Chaves Banner" width="100%" />
+  <img src="./assets/jch_Banner_Github.png" alt="Jorjany Chaves Banner" width="100%" />
 </p>
 
 ---
 
 <p align="center">
-  <a href="TU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/jorjanychaves">
     <img src="./assets/linkedin.svg" alt="LinkedIn" width="28" />
   </a>
   &nbsp;&nbsp;&nbsp;
