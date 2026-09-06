@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/jch_Banner_Github.png" alt="Jorjany Chaves Banner" width="100%" />
+</p>
 
 <!--
 **jorjanyCh/jorjanyCh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
