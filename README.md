@@ -2,6 +2,11 @@
   <img src="./assets/jch_Banner_Github.png" alt="Jorjany Chaves Banner" width="100%" />
 </p>
 
+## About Me
+
+I'm Jorjany Chaves Selles, a software developer focused on backend development.
+I work with web projects, databases and technologies that help me build and improve software solutions.
+
 <!--
 **jorjanyCh/jorjanyCh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
