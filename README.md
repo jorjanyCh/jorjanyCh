@@ -29,6 +29,7 @@ A cup of coffee is usually somewhere between the idea and the code.
   &nbsp;&nbsp;
   <img src="./assets/spring-boot.svg" alt="Spring Boot" title="Spring Boot" width="42" />
   <img src="./assets/laravel.svg" alt="Laravel" title="Laravel" width="42" />
+  <img src="./assets/php.svg" alt="php" title="php" width="42" />
 </p>
 
 ### Database
