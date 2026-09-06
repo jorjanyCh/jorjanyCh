@@ -31,13 +31,13 @@ A cup of coffee is usually somewhere between the idea and the code.
   &nbsp;&nbsp;
   <img src="./assets/laravel.svg" alt="Laravel" title="Laravel" height="48" />
   &nbsp;&nbsp;
-  <img src="./assets/php.svg" alt="PHP" title="PHP" height="34" />
+  <img src="./assets/php.svg" alt="PHP" title="PHP" height="46" />
 </p>
 
 ### Database
 
 <p>
-  <img src="./assets/mysql.svg" alt="MySQL" title="MySQL" height="34" />
+  <img src="./assets/mysql.svg" alt="MySQL" title="MySQL" height="46" />
 </p>
 
 ### Frontend
