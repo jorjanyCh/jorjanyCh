@@ -20,24 +20,31 @@ I currently develop personal projects where I continue strengthening my skills i
 
 A cup of coffee is usually somewhere between the idea and the code.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-  
-  </p>
+## Tech Stack
+
+### Backend
+
+<p>
+  <img src="./assets/java.svg" alt="Java" title="Java" width="42" />
+  &nbsp;&nbsp;
+  <img src="./assets/spring-boot.svg" alt="Spring Boot" title="Spring Boot" width="42" />
+  &nbsp;&nbsp;
+  <img src="./assets/laravel.svg" alt="Laravel" title="Laravel" width="42" />
+</p>
+
+### Database
+
+<p>
+  <img src="./assets/mysql.svg" alt="MySQL" title="MySQL" width="42" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="./assets/bootstrap.svg" alt="Bootstrap" title="Bootstrap" width="42" />
+  &nbsp;&nbsp;
+  <img src="./assets/astro.svg" alt="Astro" title="Astro" width="42" />
+</p>
 
 <!--
 **jorjanyCh/jorjanyCh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
